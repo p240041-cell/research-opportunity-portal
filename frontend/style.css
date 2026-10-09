@@ -1,0 +1,7 @@
+body { background: #f4f6f8; }
+.site-header { background: #14452f; color: #fff; padding: 1.25rem 0; }
+.site-header small { opacity: .8; }
+.badge-open { background: #198754; }
+.badge-closed { background: #6c757d; }
+th, td { white-space: nowrap; }
+td.title-cell { white-space: normal; min-width: 220px; font-weight: 600; }
